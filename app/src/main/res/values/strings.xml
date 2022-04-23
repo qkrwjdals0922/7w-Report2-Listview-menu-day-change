@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Report2</string>
+    <string name="menu1">배열 사용</string>
+    <string name="menu2">arrays.xml 사용</string>
+    <string name="menu3">list 사용</string>
+    <string name="menu4">create From Resource 사용</string>
+</resources>
